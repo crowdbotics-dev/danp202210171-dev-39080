@@ -38,8 +38,8 @@ export const globalOptions = {
 };
 export const modulesOptions = {
   "@modules/app-menu": {
-    "title": "Ap11",
-    "copy": "Rout11",
+    "title": "Ap55",
+    "copy": "Rout55",
     "styles": styles
   }
 };
