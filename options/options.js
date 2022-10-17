@@ -38,8 +38,8 @@ export const globalOptions = {
 };
 export const modulesOptions = {
   "@modules/app-menu": {
-    "title": "App99",
-    "copy": "Routes available!",
+    "title": "Apeee",
+    "copy": "Rout",
     "styles": styles
   }
 };
